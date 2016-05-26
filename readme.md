@@ -1,22 +1,25 @@
-# Laravel Homestead
-
-The official Laravel local development environment.
-
-Official documentation [is located here](http://laravel.com/docs/homestead).
-
+# Laravel vagrant-php7
 
 ## download package.box
-
+https://drive.google.com/file/d/0Bwb7S_-TeW_eT0NkVnZ6UU9xWUk/view?usp=sharing
 
 ## Box add
 ```
-$ vagrant box add $vagrant box add package_0407.box ov0407.box laravel/php7
+$ vagrant box add $vagrant box add  package-laravel-php7-postgresql.box laravel/php7
 ```
 
 ## start vagrant
+
 ```
 $ vagrant up
 $ vagrant ssh
 ```
 
-done!
+## install list
+```
+php7
+Nginx
+MySql
+PostgreSql
+```
+
