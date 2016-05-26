@@ -8,14 +8,14 @@ https://drive.google.com/file/d/0Bwb7S_-TeW_eT0NkVnZ6UU9xWUk/view?usp=sharing
 $ vagrant box add $vagrant box add  package-laravel-php7-postgresql.box laravel/php7
 ```
 
-## start vagrant
+## Start vagrant
 
 ```
 $ vagrant up
 $ vagrant ssh
 ```
 
-## install list
+## Installed list
 ```
 php7
 Nginx
