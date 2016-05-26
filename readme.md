@@ -19,7 +19,7 @@ $ vagrant ssh
 ```
 php7
 Nginx
-MySql
-PostgreSql
+MySQL
+PostgreSQl
 ```
 
