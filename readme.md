@@ -5,7 +5,7 @@ https://drive.google.com/file/d/0Bwb7S_-TeW_eT0NkVnZ6UU9xWUk/view?usp=sharing
 
 ## Box add
 ```
-$vagrant box add  package-laravel-php7-postgresql.box laravel/php7
+$vagrant box add  laravel/php7 package-laravel-php7-postgresql.box
 ```
 
 ## Start Vagrant
@@ -22,4 +22,3 @@ Nginx
 MySQL
 PostgreSQl
 ```
-
